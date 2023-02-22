@@ -17,6 +17,14 @@
     // um "=" é operador de atribuiçao
     // dois "==" é operador de comparaçao
     var_dump($a == $b);
+    //var_dump($a === $b);
 
+    echo "<br>";
+
+    //validando o valor para saber se é diferente, caso seja da true
+    var_dump($a != $b);
+    //var_dump($a !== $b);
+
+    
 
 ?>
